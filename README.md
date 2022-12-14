@@ -1,7 +1,5 @@
 # About
 
-
-
 ### What's Dispatch?
 
 Put simply, Dispatch is:
